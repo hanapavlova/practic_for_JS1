@@ -2,6 +2,7 @@
 
 # Úkol 1
 Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly zvýšit a snížit svou hodnotu o jednu.
+
 ```html
 <div id="counter">
    <button type="button" data-action="decrement">-1</button>
@@ -12,10 +13,10 @@ Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly z
 Vytvořte proměnnou counterValue, která bude ukládat aktuální hodnotu čítače a inicializuje ji na 0.
 K tlačítkům přidejte posluchače kliknutí, uvnitř kterých zvyšujete nebo snižujete hodnotu čítače.
 Aktualizujte rozhraní novou hodnotou proměnné counterValue.
+
 ---
 
 # Úkol 2
-
 Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly zvýšit a snížit svou hodnotu o jednu.
 ```html
 <div id="counter">
@@ -27,4 +28,5 @@ Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly z
 Vytvořte proměnnou counterValue, která bude ukládat aktuální hodnotu čítače a inicializuje ji na 0.
 K tlačítkům přidejte posluchače kliknutí, uvnitř kterých zvyšujete nebo snižujete hodnotu čítače.
 Aktualizujte rozhraní novou hodnotou proměnné counterValue.
+
 
