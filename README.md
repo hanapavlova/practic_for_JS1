@@ -12,6 +12,7 @@ Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly z
 Vytvořte proměnnou counterValue, která bude ukládat aktuální hodnotu čítače a inicializuje ji na 0.
 K tlačítkům přidejte posluchače kliknutí, uvnitř kterých zvyšujete nebo snižujete hodnotu čítače.
 Aktualizujte rozhraní novou hodnotou proměnné counterValue.
+---
 
 # Úkol 2
 
