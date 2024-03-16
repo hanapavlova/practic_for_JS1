@@ -1,4 +1,4 @@
-console.log('task 9');
+console.log('task 2');
 // funkce pro náhodné vytváření barev
 function getRandomHexColor() {
     return `#${Math.floor(Math.random() * 16777215)

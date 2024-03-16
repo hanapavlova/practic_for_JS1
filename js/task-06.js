@@ -1,1 +1,1 @@
-console.log('task-06');
+console.log('task 06');
