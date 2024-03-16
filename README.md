@@ -14,6 +14,7 @@ K tlačítkům přidejte posluchače kliknutí, uvnitř kterých zvyšujete nebo
 Aktualizujte rozhraní novou hodnotou proměnné counterValue.
 
 # Úkol 2
+
 Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly zvýšit a snížit svou hodnotu o jednu.
 ```html
 <div id="counter">
