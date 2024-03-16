@@ -2,7 +2,7 @@
 
 # Úkol 1
 Počítadlo se skládá z rozpětí a tlačítek, které by po kliknutí měly zvýšit a snížit svou hodnotu o jednu.
-
+```html
 <div id="counter">
    <button type="button" data-action="decrement">-1</button>
    <span id="value">0</span>
