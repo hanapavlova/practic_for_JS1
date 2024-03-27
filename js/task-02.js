@@ -6,3 +6,12 @@ function getRandomHexColor() {
       .padStart(6, 0)}`;
   }
 // napište svůj kód níže
+
+const changeColor = () => {
+  const randomColor = getRandomHexColor()
+  const background = document.querySelector(".color")
+  background.style.backgroundColor = randomColor
+}
+
+const backgroundColorButton = document.querySelector(".change-color")
+backgroundColorButton.addEventListener("click", changeColor)
